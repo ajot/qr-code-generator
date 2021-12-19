@@ -1,6 +1,6 @@
 # QR Code Generator (Python)
 
-I wanted to experiment if there was an easy way to generate a QR code using Python. Turns out there's a Python library - pyqrcode you can use to do that. You can then use the `pypng` library to render the code as a PNG or an SVG image. 
+I wanted to experiment if there was an easy way to generate a QR code using Python. Turns out there's a Python library - [pyqrcode](https://pythonhosted.org/PyQRCode/) you can use to do that. You can then use the [pypng](https://pypi.org/project/pypng/) library to render the code as a PNG or an SVG image. 
 
 ### Create a virtual environment (optional)
 ```virtualenv venv -p python3```
